@@ -4,3 +4,5 @@
     --blue-rgb: 33 150 243;
     --primary-rgb: var(--blue-rgb);
 }
+* {
+    box-sizing: border-box;
