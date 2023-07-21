@@ -13,3 +13,4 @@ body {
     display: grid;
     place-items: center;
     background-color: rgb(var(--background-rgb));
+    margin: 0rem;
