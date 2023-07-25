@@ -18,3 +18,5 @@ body {
 }
 
 .screen {
+    width: 500px;
+    display: flex;
