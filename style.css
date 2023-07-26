@@ -20,3 +20,4 @@ body {
 .screen {
     width: 500px;
     display: flex;
+    border: 3px solid rgb(var(--primary-rgb) / 80%);
