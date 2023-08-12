@@ -36,3 +36,4 @@ body {
     background-color: rgb(var(--primary-rgb) / 15%);
     overflow: hidden;
     position: relative;
+    z-index: 10;
