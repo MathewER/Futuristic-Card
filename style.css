@@ -41,3 +41,4 @@ body {
 
 .screen:after,
 .screen:before {
+    content: "";
