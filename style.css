@@ -43,3 +43,4 @@ body {
 .screen:before {
     content: "";
     height: 5px;
+    position: absolute;
