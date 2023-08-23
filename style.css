@@ -44,3 +44,4 @@ body {
     content: "";
     height: 5px;
     position: absolute;
+    z-index: 4;
