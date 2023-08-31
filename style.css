@@ -49,3 +49,5 @@ body {
     translate: -50% 0%;
     background-color: white;
 }
+
+.screen:before {
