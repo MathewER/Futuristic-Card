@@ -53,3 +53,4 @@ body {
 .screen:before {
     width: 15%;
     top: 0rem;
+    border-bottom-left-radius: 1rem;
