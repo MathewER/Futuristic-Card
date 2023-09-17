@@ -66,3 +66,4 @@ body {
 
 @keyframes pan-overlay {
     from {
+        background-position: 0% 0%;
