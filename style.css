@@ -76,3 +76,4 @@ body {
 
 .screen-overlay {
     background: linear-gradient(rgb(var(--primary-rgb) / 0.15),
+            rgb(var(--primary-rgb) / 0.15) 3px,
