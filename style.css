@@ -78,3 +78,4 @@ body {
     background: linear-gradient(rgb(var(--primary-rgb) / 0.15),
             rgb(var(--primary-rgb) / 0.15) 3px,
             transparent 3px,
+            transparent 9px);
