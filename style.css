@@ -79,3 +79,4 @@ body {
             rgb(var(--primary-rgb) / 0.15) 3px,
             transparent 3px,
             transparent 9px);
+    background-size: 100% 9px;
