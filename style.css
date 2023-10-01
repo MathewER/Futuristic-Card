@@ -82,3 +82,4 @@ body {
     background-size: 100% 9px;
     height: 100%;
     width: 100%;
+    animation: pan-overlay 22s infinite linear;
