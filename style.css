@@ -85,3 +85,4 @@ body {
     animation: pan-overlay 22s infinite linear;
     position: absolute;
     z-index: 2;
+    left: 0px;
