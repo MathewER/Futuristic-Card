@@ -92,3 +92,4 @@ body {
 @keyframes pan-image {
     0% {
         background-position: 36% 42%;
+        background-size: 200%;
